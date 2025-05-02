@@ -1,0 +1,33 @@
+[
+    {
+      "firstName": "Maximiliano",
+      "lastName": "Pets",
+      "postalCode": "5700"
+    },
+    {
+      "firstName": "Juan",
+      "lastName": "Gomez",
+      "postalCode": "1234"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Lopez",
+      "postalCode": "5678"
+    },
+    {
+      "firstName": "Carlos",
+      "lastName": "Perez",
+      "postalCode": "4321"
+    },
+    {
+      "firstName": "Laura",
+      "lastName": "Martinez",
+      "postalCode": "8765"
+    },
+    {
+      "firstName": "Lucia",
+      "lastName": "Fernandez",
+      "postalCode": "9876"
+    }
+  ]
+  
